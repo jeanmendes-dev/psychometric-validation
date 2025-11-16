@@ -33,6 +33,7 @@ The analysis successfully confirms the robustness of the simulated two-factor st
 
 ### Structural Validity — Factor Determination
 The Parallel Analysis strongly suggests a two-factor structure (2 components above the red simulated/resampled lines), confirming the theoretical model underlying the scale design.
+
 ![Parallel Analysis](img1.png)
 
 ### Factor Loadings and Statistics (EFA)
@@ -45,7 +46,9 @@ The factor analysis confirmed the expected structure (Factor 1 grouping items Q1
 
 ### Generated Report
 A text file summarizing all EFA, Alpha, and Validity results.
-![Validation Report](validation_report.txt)
+![Validation Report-pt1](img2.png)
+![Validation Report-pt2](img3.png)
+![Validation Report-pt3](img4.png)
 
 ---
 
