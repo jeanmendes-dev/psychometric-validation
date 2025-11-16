@@ -45,7 +45,7 @@ The factor analysis confirmed the expected structure (Factor 1 grouping items Q1
 
 ### Generated Report
 A text file summarizing all EFA, Alpha, and Validity results.
-![Validation Report](relatorio_validacao.txt)
+![Validation Report](validation_report.txt)
 
 ---
 
